@@ -13,8 +13,8 @@ OUTPUT_FILE = "abuseipdb_enriched.csv"
 
 MAX_AGE_DAYS = 90
 TIMEOUT = 20
-
-API_KEY = "Put your API you will get from the web site when login"
+#Get your API Key from the website after login
+API_KEY = "Put your API"
 
 RUN_DATE = datetime.now().strftime("%d/%m/%Y")
 
